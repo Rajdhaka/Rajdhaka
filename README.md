@@ -48,9 +48,9 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 
 <div>
   <a href="https://github.com/Rajdhaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajdhaka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajdhaka&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/> 
     &nbsp;
-      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdhaka&theme=react"></a>
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdhaka&theme=rose_pine"></a>
 
 </div>  
 
@@ -66,7 +66,7 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
   
  <br>
   
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Rajdhaka&theme=react)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Rajdhaka&theme=rose_pine)
 
 <!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=n1khilnick&theme=dracula&color=B994E6&bg_color=141321) -->
 
