@@ -1,21 +1,26 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRajdhaka%2FRajdhaka&countColor=%23263759)
+<h1 align="center">Hi 👋, I'm Rajesh Kumar Dhaka</h1>
+<h3 align="center">A passionate Java Spring Boot developer from India</h3>
+I am currently an apprentice at the Geekster platform, where I actively strive to enhance my skills and deepen my understanding of the technology field. As a highly skilled backend developer with a strong background in Spring Boot, I bring a wealth of knowledge and expertise in Java programming and Data Structures and Algorithms (DSA). With a genuine passion for programming, I have cultivated a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. Continual skill improvement is a priority for me, as I constantly seek opportunities to refine my abilities and stay up-to-date with the latest industry trends.
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere+%F0%9F%91%8B;This+is+Rajesh+Kumar+Dhaka;Back+End+Developer">
-  </a>
-</h1>
+- 🔭 I’m currently working on [Blogging Platform API](https://github.com/Rajdhaka/bloggingPlatformggingPlatform)
 
-Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br>
+- 🌱 I’m currently learning **Spring Security**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Rajdhaka](https://github.com/Rajdhaka)
 
-<br>
+- 💬 Ask me about **Java, DSA, OOP, Spring Boot**
 
-## **Social Media:**
+- 📫 How to reach me **rajdhaka200@gmail.com**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/Rajdhaka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-dhaka-b671a51aa/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WtiDI4S4gptZEAeZSgVyMVATEoLPHdSz/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajesh-kumar-dhaka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style= flat-square&logo=LinkedIn&logoColor=white" alt="rajesh-kumar-dhaka"  /></a>
+<a href="https://www.leetcode.com/rajdhaka200" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style= flat-square&logo=LeetCode&logoColor=white" alt="rajdhaka200"  /></a>
+<a href="https://www.hackerrank.com/@rajdhaka200" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style= flat-square&logo=HackerRank&logoColor=white" alt="@rajdhaka200"  /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajdhaka200" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style= flat-square&logo=GeeksforGeeks&logoColor=white" alt="rajdhaka200"  /></a>
+</p>
 
 ## 🛠  Technologies and tools
 
@@ -34,10 +39,13 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
  <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
    <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
-    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse-IDE&logoColor=white" />
+   <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
+   <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
+   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
+    <!-- <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse-IDE&logoColor=white" />
    <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
   <img alt="spotify" src="https://img.shields.io/static/v1?style=flat-square&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> -->
 </p>
 
 <!-- <hr>
@@ -71,13 +79,3 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 <!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=n1khilnick&theme=dracula&color=B994E6&bg_color=141321) -->
 
 <br>
-
-> <i>Random dev joke for you :)</i><br>
-<br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
-  
-<p align="center">
-     <img src="https://github.com/n1khilnick/n1khilnick/blob/67b220c5cbd12a162e0f8c9bfde34609d2dcb355/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
-<!-- ⚡ Powered by Frappuccino JavaChip -->
