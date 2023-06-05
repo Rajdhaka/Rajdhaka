@@ -4,11 +4,11 @@ I am currently an apprentice at the Geekster platform, where I actively strive t
 
 - 🔭 I’m currently working on [Blogging Platform API](https://github.com/Rajdhaka/bloggingPlatformggingPlatform)
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajdhaka](https://github.com/Rajdhaka)
 
-- 💬 Ask me about **Java, DSA, OOP, Spring Boot**
+- 💬 Ask me about **Java, DSA, OOP, MySQL Spring Boot**
 
 - 📫 How to reach me **rajdhaka200@gmail.com**
 
@@ -27,6 +27,7 @@ I am currently an apprentice at the Geekster platform, where I actively strive t
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 <!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -39,9 +40,9 @@ I am currently an apprentice at the Geekster platform, where I actively strive t
  <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
    <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat-square&logo=Amazon-EC2&logoColor=white" />
    <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
    <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
-   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
     <!-- <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse-IDE&logoColor=white" />
    <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
   <img alt="spotify" src="https://img.shields.io/static/v1?style=flat-square&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=" />
