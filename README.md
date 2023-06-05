@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Dhaka</h1>
 <h3 align="center">A passionate Java Spring Boot developer from India</h3>
-I am currently an apprentice at the Geekster platform, where I actively strive to enhance my skills and deepen my understanding of the technology field. As a highly skilled backend developer with a strong background in Spring Boot, I bring a wealth of knowledge and expertise in Java programming and Data Structures and Algorithms (DSA). With a genuine passion for programming, I have cultivated a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. Continual skill improvement is a priority for me, as I constantly seek opportunities to refine my abilities and stay up-to-date with the latest industry trends.
+
+#### I am currently an apprentice at the Geekster platform, where I actively strive to enhance my skills and deepen my understanding of the technology field. As a highly skilled backend developer with a strong background in Spring Boot, I bring a wealth of knowledge and expertise in Java programming and Data Structures and Algorithms (DSA). With a genuine passion for programming, I have cultivated a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. Continual skill improvement is a priority for me, as I constantly seek opportunities to refine my abilities and stay up-to-date with the latest industry trends.
 
 - 🔭 I’m currently working on [Blogging Platform API](https://github.com/Rajdhaka/bloggingPlatform)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rajdhaka)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rajdhaka?tab=repositories)
 
 - 💬 Ask me about **Java, DSA, OOP, MySQL, Spring Boot**
 
