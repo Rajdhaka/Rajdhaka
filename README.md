@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajdhaka200@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WtiDI4S4gptZEAeZSgVyMVATEoLPHdSz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EZDuaKAhnM1qohrki36zQ17jirD6BQXF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
