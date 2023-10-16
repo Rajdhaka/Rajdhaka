@@ -4,7 +4,7 @@
 #### I am currently an apprentice at the Geekster platform, where I actively strive to enhance my skills and deepen my understanding of the technology field. As a highly skilled backend developer with a strong background in Spring Boot, I bring a wealth of knowledge and expertise in Java programming and Data Structures and Algorithms (DSA). With a genuine passion for programming, I have cultivated a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. Continual skill improvement is a priority for me, as I constantly seek opportunities to refine my abilities and stay up-to-date with the latest industry trends.
 
 <br>
- <img align="right" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif" alt="Developer GIF" width="350">
+ <img align="right" src="https://gomycode.com/wp-content/uploads/2023/09/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Developer GIF" width="400">
 
 
 - 🔭 I’m currently working on [Blogging Platform API](https://github.com/Rajdhaka/bloggingPlatform)
@@ -19,6 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EZDuaKAhnM1qohrki36zQ17jirD6BQXF/view?usp=drive_link)
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajesh-kumar-dhaka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style= flat-square&logo=LinkedIn&logoColor=white" alt="rajesh-kumar-dhaka"  /></a>
