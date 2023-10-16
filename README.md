@@ -3,6 +3,10 @@
 
 #### I am currently an apprentice at the Geekster platform, where I actively strive to enhance my skills and deepen my understanding of the technology field. As a highly skilled backend developer with a strong background in Spring Boot, I bring a wealth of knowledge and expertise in Java programming and Data Structures and Algorithms (DSA). With a genuine passion for programming, I have cultivated a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. Continual skill improvement is a priority for me, as I constantly seek opportunities to refine my abilities and stay up-to-date with the latest industry trends.
 
+<br>
+ <img align="right" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif" alt="Developer GIF" width="350">
+
+
 - 🔭 I’m currently working on [Blogging Platform API](https://github.com/Rajdhaka/bloggingPlatform)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
